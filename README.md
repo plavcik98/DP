@@ -3,7 +3,7 @@ Zdroje:
 
 [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/pdf/2112.10752.pdf)
 
-[Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/pdf/2105.05233.pdf) [YouTube video](https://www.youtube.com/watch?v=W-O7AZNzbzQ)
+[Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/pdf/2105.05233.pdf) video - [YouTube video](https://www.youtube.com/watch?v=W-O7AZNzbzQ)
 
 [Denoising Diffusion Probabilistic Models](https://arxiv.org/pdf/2006.11239.pdf)
 
