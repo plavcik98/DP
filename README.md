@@ -14,6 +14,8 @@ Zdroje:
 [GENERATION OF ANONYMOUS CHEST RADIOGRAPHS USING LATENT DIFFUSION MODELS FOR TRAINING THORACIC ABNORMALITY CLASSIFICATION SYSTEMS](https://arxiv.org/pdf/2211.01323.pdf)
 
 (https://arxiv.org/pdf/2204.06125.pdf)
+(https://arxiv.org/pdf/2301.13826.pdf)
+(https://arxiv.org/pdf/2209.07162.pdf)
 
 Stranky:
 
