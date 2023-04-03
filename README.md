@@ -11,6 +11,10 @@ Zdroje:
 
 [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/pdf/1503.03585.pdf)
 
+[GENERATION OF ANONYMOUS CHEST RADIOGRAPHS USING LATENT DIFFUSION MODELS FOR TRAINING THORACIC ABNORMALITY CLASSIFICATION SYSTEMS](https://arxiv.org/pdf/2211.01323.pdf)
+
+Stranky:
+
 [Stranka kde je diffusion models vysvetlene "What are Diffusion Models?"](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/#ldm)
 
 YOUTUBE:
