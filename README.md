@@ -35,6 +35,8 @@ YOUTUBE:
 
 [Diffusion Models | PyTorch Implementation](https://www.youtube.com/watch?v=TBCRlnwJtZU)
 
+[https://www.youtube.com/watch?v=J1aG12dLo4I](Understand the Math and Theory of GANs in ~ 10 minutes)
+
 # GAN
 Zdroje:
 
@@ -45,4 +47,23 @@ Zdroje:
 [Generative Adversarial Networks (GANs): Challenges, Solutions, and Future Directions](https://arxiv.org/ftp/arxiv/papers/2005/2005.00065.pdf)
 
 [ON CONVERGENCE AND STABILITY OF GANS](https://arxiv.org/pdf/1705.07215.pdf)
+
+# S binárnou maskou
+[file:///D:/b/machines-10-01239.pdf]()
+
+[https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Mask-Embedded_Discriminator_With_Region-Based_Semantic_Regularization_for_Semi-Supervised_Class-Conditional_Image_CVPR_2021_paper.pdf]()
+
+[https://arxiv.org/pdf/1907.01710.pdf]()
+
+[https://arxiv.org/pdf/1611.07004.pdf]()
+
+[https://openaccess.thecvf.com/content_CVPR_2019/papers/Gu_Mask-Guided_Portrait_Editing_With_Conditional_GANs_CVPR_2019_paper.pdf]()
+
+[https://github.com/cientgu/Mask_Guided_Portrait_Editing]()
+
+[https://www.sciencedirect.com/science/article/abs/pii/S0167865522002082]()
+
+[https://www.albany.edu/faculty/mchang2/files/2020_11_ACCV_MagGAN_Face_Editing.pdf]()
+[]()
+
 
